@@ -10,13 +10,13 @@
 - 👯 I’m looking to collaborate on **Design** and/or **Front-end web dev** projects
 
 ### 📬 Get in Touch
-- LinkedIn: coming soon
+- LinkedIn: [https://www.linkedin.com/in/adriana-ceric/]
 - Site: [adrianaceric.github.io][site]
 - E-mail: <a>adriana.ceric@gmail.com</a>
 
 ### 📚 Looking for my Resume? E-Mail me!
 
-![Federico Dondi's github stats](https://github-readme-stats.vercel.app/api?username=AdrianaCeric&show_icons=true&hide_border=true)
+![My Github stats](https://github-readme-stats.vercel.app/api?username=AdrianaCeric&show_icons=true&hide_border=true)
 
 [github]: https://github.com/federico-dondi
 [site]: https://adrianaceric.github.io
