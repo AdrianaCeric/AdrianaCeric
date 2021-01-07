@@ -10,7 +10,6 @@
 - Site: [adrianaceric.github.io][site]
 - E-mail: <a>adriana.ceric@gmail.com</a>
 
-![My Github stats](https://github-readme-stats.vercel.app/api?username=AdrianaCeric&show_icons=true&hide_border=true)
 
 [github]: https://github.com/federico-dondi
 [site]: https://adrianaceric.github.io
