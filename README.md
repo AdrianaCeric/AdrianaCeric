@@ -6,9 +6,9 @@
 - 👯 I’m looking to collaborate on **design** and/or **front-end web dev** projects
 
 ### 📬 Get in Touch
-- LinkedIn: https://www.linkedin.com/in/adriana-ceric/
-- Site: [adrianaceric.github.io][site]
-- E-mail: <a>adriana.ceric@gmail.com</a>
+- [LinkedIn](https://www.linkedin.com/in/adriana-ceric/)
+- [Website](adrianaceric.github.io)
+- [E-mail](adriana.ceric@gmail.com)
 
 
 [github]: https://github.com/federico-dondi
