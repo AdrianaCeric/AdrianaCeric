@@ -1,7 +1,7 @@
 # Hello, I'm Adriana Ceric 👋
 
 - 🔭 I’m currently a **High School Student** at based in Ontario, Canada
-- 🌱 I’m currently learning **UX design**
+- 🌱 Learning **UX design**
 - ⚙️ Mastering: `.html`,`.css`,`.js`
 - 👯 I’m looking to collaborate on **design** and/or **front-end web dev** projects
 
