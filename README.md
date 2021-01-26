@@ -1,5 +1,5 @@
 # Hello, I'm Adriana Ceric 👋
-
+![skyline](skyline.png)
 - 😊 Currently a **High School Student** from Waterloo, ON, Canada
 - 🌱 Learning **UX design**
 - ⚙️ Mastering: `.html`,`.css`,`.js`
