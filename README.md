@@ -1,4 +1,4 @@
-# Hello, I'm Adriana Ceric 👋
+# Hey, I'm Adriana 👋
 ![skyline](skyline.png)
 - 😊 Currently a **High School Student** from Waterloo, ON, Canada
 - 🌱 Learning **UX design**
