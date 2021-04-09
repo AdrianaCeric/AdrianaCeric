@@ -1,6 +1,7 @@
-# Hey, I'm Adriana 👋
-![header](Rectangle (1).png)
+# Hey, I'm Adriana (she/her) 👋
+## Welcome to my tech toolbox ⚙️
 ![skyline](skyline.png)
+## tl;dr
 - 😊 Currently a **High School Student** from Waterloo, ON, Canada
 - 🌱 Learning **UX design**
 - ⚙️ Mastering: `.html`,`.css`,`.js`
