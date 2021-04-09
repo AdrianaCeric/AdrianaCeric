@@ -1,4 +1,5 @@
 # Hey, I'm Adriana 👋
+![header](Rectangle (1).png)
 ![skyline](skyline.png)
 - 😊 Currently a **High School Student** from Waterloo, ON, Canada
 - 🌱 Learning **UX design**
