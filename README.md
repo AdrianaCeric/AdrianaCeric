@@ -2,7 +2,8 @@
 ## Welcome to my tech toolbox ⚙️
 ![skyline](skyline.png)
 ## tl;dr
-- 😊 Currently a **High School Student** from Waterloo, ON, Canada
+- 😊 Incoming a Civil Engineering student @ UWaterloo
+- 💻 Incoming **Innovation Developer** [@RBC](https://jobs.rbc.com/ca/en/technology-operations)
 - 🌱 Learning **UX design**
 - ⚙️ Mastering: `.html`,`.css`,`.js`
 - 👯 I’m looking to collaborate on any **hackathon** projects (might be a little addicted to them)
