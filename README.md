@@ -11,7 +11,7 @@ Thing is, I have a sweet spot for the future of infrastructure and transportatio
 
 ### Where you can find me:
 - [LinkedIn](https://www.linkedin.com/in/adriana-ceric/)
-- [Website](adrianaceric.github.io)
+- [Website](https://adrianaceric.github.io/)
 - [E-mail](adriana.ceric@gmail.com)
 
 Here are some of my favourite projects:
