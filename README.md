@@ -2,14 +2,16 @@
 ## Welcome to my tech toolbox ⚙️
 ![skyline](skyline.png)
 ## tl;dr
-- 😊 Incoming a Civil Engineering student @ UWaterloo
+- 👷‍♀️ Incoming a Civil Engineering student @ UWaterloo
 - 💻 Incoming **Innovation Developer** [@RBC](https://jobs.rbc.com/ca/en/technology-operations)
-- 🌱 Learning **UX design**
-- ⚙️ Mastering: `.html`,`.css`,`.js`
-- 👯 I’m looking to collaborate on any **hackathon** projects (might be a little addicted to them)
+- 👯 I’m opem to collaborating on any **hackathon** projects (might be a little addicted to them)
 
-### 📬 Get in Touch
+### Yup, I'm a civil engineering student on Github. Not the most common occurence, I know.
+Thing is, I have a sweet spot for the future of infrastructure and transportation (urban tech in general). To solve our city's biggest challenges, I'll need to leverage epic tech skills, so you might find me at a hackathon or tech internship here and there. On that note, if you're interested in chatting about urban planning or the future of cities, shoot me a message using the links below:
+
+### Where you can find me:
 - [LinkedIn](https://www.linkedin.com/in/adriana-ceric/)
 - [Website](adrianaceric.github.io)
 - [E-mail](adriana.ceric@gmail.com)
 
+Here are some of my favourite projects:
