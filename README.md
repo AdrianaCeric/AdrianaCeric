@@ -4,7 +4,7 @@ Welcome to my tech toolbox! ⚙️ A snapshot of where I live and study:
 <img src="waterloo-mini.jpg"></img>
 
 ### tl;dr
-- 👷‍♀️ Incoming a Civil Engineering student @ UWaterloo
+- 👷‍♀️ Incoming a Civil Engineering student [@UWaterloo](https://uwaterloo.ca/)
 - 💻 Incoming **Innovation Developer** [@RBC](https://jobs.rbc.com/ca/en/technology-operations)
 - 👯 Open to collaborate on any **hackathon** projects (might be a little addicted to them)
 ### A civil engineering student on Github??
