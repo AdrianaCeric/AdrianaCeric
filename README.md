@@ -12,4 +12,7 @@ I have a sweet spot for the future of infrastructure and transportation (urban t
 - [Website](https://adrianaceric.github.io/)
 - [E-mail](adriana.ceric@gmail.com)
 
+
+<br><br><br><br><br>
+
 Here are some of my favourite projects:
