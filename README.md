@@ -1,7 +1,7 @@
 # Hey, I'm Adriana (she/her) 👋
 Welcome to my tech toolbox! ⚙️ A snapshot of where I live and study:
 <br><br>
-<img src="waterloo-mini.jpg"></img>
+<img src="waterloo.png"></img>
 
 ### tl;dr
 - 👷‍♀️ Civil Engineering student '26 [@UWaterloo](https://uwaterloo.ca/)
