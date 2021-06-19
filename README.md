@@ -5,7 +5,6 @@ Welcome to my tech toolbox! ⚙️ A snapshot of where I live and study:
 
 ### tl;dr
 - 👷‍♀️ Civil Engineering student '26 [@UWaterloo](https://uwaterloo.ca/)
-- 💻 Making banking tech solutions as a Frontend Developer [@RBC](https://jobs.rbc.com/ca/en/technology-operations)
 - Currently learning frontend frameworks and native app dev. (React, Gatsby, React Native) and playing around with [Mapbox](https://www.mapbox.com/) 📍
 
 I have a sweet spot for the future of infrastructure and transportation (urban tech in general). If you're interested in chatting about urban planning, technology or the future of cities, shoot me a message using the links below:
