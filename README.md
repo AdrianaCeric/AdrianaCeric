@@ -1,5 +1,7 @@
 ### Hey, I'm Adriana
-Welcome to my tech toolbox ⚙️! I hope you came here with public transit.... a snapshot of where I live and study:
+Welcome to my tech toolbox ⚙️! I hope you came here with public transit.... a street map of where I live and study:
+![waterloo2](https://user-images.githubusercontent.com/62163307/127757145-8a448d74-6e20-4403-93d8-8aa483f4cf0a.png)
+
 <br><br>
 <p align="center"><img align="centre" width="600" src="waterloo.png"></img></p>
 
