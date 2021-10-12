@@ -8,7 +8,7 @@ I mostly code to get creative; I'm currently learning frontend frameworks and na
 I have a sweet spot for the future of cities, especially transportation (urban tech in general). If you're interested in chatting about that kind of stuff, shoot me a message through my [LinkedIn](https://www.linkedin.com/in/adriana-ceric/)/[email](adriana.ceric@gmail.com), or get to know me more through my [website](https://adrianaceric.github.io/).
 <br>
 
-I am open for a transportation/transit/software/product-focused co-op opportunity come Winter 2023!
+I am open to a 4-month transportation/transit/software/product-focused co-op opportunity come Winter 2023!
 
 ![](https://komarev.com/ghpvc/?username=AdrianaCeric&color=blueviolet)
 
