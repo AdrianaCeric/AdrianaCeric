@@ -1,5 +1,7 @@
 ### Hey, I'm Adriana
-Welcome to my tech toolbox ⚙️! I hope you came here with public transit.... a street map of where I live and study (made using [OSMnx](https://linkinghub.elsevier.com/retrieve/pii/S0198971516303970)):
+Hi! I hope you came here with public transit...
+
+A street map of where I live and study (made using [OSMnx](https://linkinghub.elsevier.com/retrieve/pii/S0198971516303970)):
 
 <p align="center"><img align="centre" width="400" src="waterloo2.png"></img></p>
 
