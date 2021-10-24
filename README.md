@@ -1,9 +1,9 @@
 ### Hey, I'm Adriana
-Hi! I hope you came here with public transit...
+I hope you came here with public transit...
 
 A street map of where I live and study (made using [OSMnx](https://linkinghub.elsevier.com/retrieve/pii/S0198971516303970)):
 
-<p align="center"><img align="centre" width="400" src="waterloo2.png"></img></p>
+<p align="center"><img align="centre" width="320" src="waterloo2.png"></img></p>
 
 I mostly code to get creative; I'm currently learning frontend frameworks and native app dev (React, Gatsby, React Native), playing around with visualization tools and trying out Javascript libraries. I've equally had the chance to try out developement/UX/product roles as an Innovation Developer intern at RBC in the summer of 2021.
 
