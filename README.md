@@ -1,6 +1,6 @@
 ### Hey, I'm Adriana
 
-I study concrete at school and code for fun/to get creative.
+I study concrete at school and code for fun!
 
 A street map of where I live and study (made using [OSMnx](https://linkinghub.elsevier.com/retrieve/pii/S0198971516303970)):
 
