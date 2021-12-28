@@ -1,5 +1,4 @@
-### Yo, I'm Adriana!
-I study concrete at school and code to learn about how to make communities more accessible and sustainable.
+I study concrete at school and code on the side!
 
 A street map of where I live and study (made using [OSMnx](https://linkinghub.elsevier.com/retrieve/pii/S0198971516303970)):
 
