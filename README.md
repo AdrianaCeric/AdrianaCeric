@@ -1,3 +1,3 @@
-I study concrete at school and code on the side!
+Hi!
 
 Check out some of my favourite projects:
