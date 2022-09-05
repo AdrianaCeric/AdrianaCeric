@@ -1,1 +1,4 @@
-Currently exploring open-sourced software, city network visualization libraries & transit data! Visit [adrianaceric.me](https://adrianaceric.me/) to learn more
+```
+Currently exploring open-sourced software, city network visualization libraries & transit data!
+Visit [my website](https://aceric.vercel.app/) to learn more
+```
